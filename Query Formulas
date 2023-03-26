@@ -1,0 +1,9 @@
+Structured Query Language 
+
+Day No is created to know  the total days sold out -- Day No = 'product'[Date].[Day] 
+
+Max Sales = MAX('product'[SALES])
+
+SALES = 'product'[Unit Price] * 'product'[Qty]
+
+sales percent = 'product'[SALES]
