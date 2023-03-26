@@ -14,7 +14,10 @@ Added three more page to showcase the difference in the sales reports for the be
 
 3 Page shows how to create Map Visualizations 
 
-4 Page  and 5 Page shows how slicer works in power Bi repreenting the Region and Week names
+4 Page  and 5 Page shows how slicer works in power Bi repreenting the Region and Week names.
+
+Kindly clcik on this #1 to view th Sales anlaysis Report and for more details download and check the Readme word docx
+
 
 
 https://github.com/Balabaveethera/Business-Intelligence--Power-Bi-dashboard-/issues/1
